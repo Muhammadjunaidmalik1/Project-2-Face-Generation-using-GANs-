@@ -7,5 +7,5 @@ here is the Colab link :
 https://drive.google.com/file/d/1qyyFv0lgm122fnFps6GwaBDZ3RWksx3W/view?usp=sharing
 
 
-[UDacity deep learning.pdf](https://github.com/Muhammadjunaidmalik1/Project-2-Face-Generation-using-GANs-/files/11624117/UDacity.deep.learning.pdf)
+![Udacity Deep Learning Nanodegree Certificate](https://github.com/Muhammadjunaidmalik1/Project-2-Face-Generation-using-GANs-/assets/84126923/02a805be-9af6-47a7-af08-7ac216b71503)
 
