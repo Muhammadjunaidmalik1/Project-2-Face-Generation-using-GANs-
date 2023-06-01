@@ -5,3 +5,7 @@ In this project, I built and train a custom GAN architecture on the CelebA datas
 
 here is the Colab link :
 https://drive.google.com/file/d/1qyyFv0lgm122fnFps6GwaBDZ3RWksx3W/view?usp=sharing
+
+
+[UDacity deep learning.pdf](https://github.com/Muhammadjunaidmalik1/Project-2-Face-Generation-using-GANs-/files/11624117/UDacity.deep.learning.pdf)
+
